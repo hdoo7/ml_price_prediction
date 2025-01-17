@@ -1,7 +1,7 @@
-# Real Estate Price Prediction Project
+# Rent Price Prediction Project
 
 ## Overview
-This project aims to predict real estate prices using machine learning models. It involves:
+This project aims to predict rent prices using machine learning models. It involves:
 1. Retrieving datasets from Google Drive.
 2. Cleaning and engineering features from the data.
 3. Training and evaluating multiple regression models.
@@ -89,5 +89,5 @@ Sample predictions and model performance metrics are displayed.
 ---
 
 ## Conclusion
-This project demonstrates a complete pipeline for predicting real estate prices, including data collection, preprocessing, model training, and evaluation. The comparison of multiple models provides insights into their relative performance on the provided datasets.
+This project demonstrates a complete pipeline for predicting rent prices, including data collection, preprocessing, model training, and evaluation. The comparison of multiple models provides insights into their relative performance on the provided datasets.
 ```
